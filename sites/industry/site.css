@@ -1,0 +1,26 @@
+.theme-industry {
+  --brand: #364b55;
+  --nav: #24353d;
+  --accent: #e2a329;
+  background: #f1f0eb;
+  border: 2px solid #56656b;
+}
+
+.theme-industry .site-masthead {
+  background: repeating-linear-gradient(135deg, #d8d9d6 0, #d8d9d6 10px, #cfd2d1 10px, #cfd2d1 20px);
+  border-bottom: 7px solid #e2a329;
+}
+
+.theme-industry .site-nav {
+  border-bottom-color: #e2a329;
+}
+
+.theme-industry .page-title {
+  padding-left: 13px;
+  border-left: 8px solid #e2a329;
+}
+
+.theme-industry table th {
+  color: #fff;
+  background: #425963;
+}

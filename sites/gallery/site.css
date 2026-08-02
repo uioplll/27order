@@ -1,0 +1,40 @@
+.theme-gallery {
+  --brand: #d7c879;
+  --nav: #302c3d;
+  --accent: #bca64b;
+  color: #e6e2d8;
+  background: #24242a;
+  border-color: #57545e;
+}
+
+.theme-gallery .site-masthead,
+.theme-gallery .site-footer {
+  color: #d4d0c8;
+  background: #1b1b20;
+  border-color: #57545e;
+}
+
+.theme-gallery .site-tagline,
+.theme-gallery .site-date,
+.theme-gallery .page-meta,
+.theme-gallery .breadcrumb {
+  color: #aaa6b0;
+}
+
+.theme-gallery .page-title,
+.theme-gallery .story-copy,
+.theme-gallery .legacy-interactions h2 {
+  color: #aaa6b0;
+}
+
+.theme-gallery .lead,
+.theme-gallery .comment-body,
+.theme-gallery .catalog-card {
+  color: #ded9ce;
+  background: #303037;
+  border-color: #5e5b66;
+}
+
+.theme-gallery a {
+  color: #d7c879;
+}
