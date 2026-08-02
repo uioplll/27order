@@ -1,0 +1,27 @@
+.theme-health {
+  --brand: #2d7353;
+  --nav: #3b8060;
+  --accent: #e1a43d;
+  background: #f8fff9;
+  border-color: #82aa91;
+}
+
+.theme-health .site-masthead {
+  background: #e9f5ec;
+  border-bottom: 1px dashed #6f9b7d;
+}
+
+.theme-health .content-column {
+  width: min(900px, 100%);
+  margin: 0 auto;
+}
+
+.theme-health .forum-post,
+.theme-health .legacy-interactions {
+  border-color: #8eae98;
+}
+
+.theme-health .comment-avatar {
+  color: #fff;
+  background: #4c8062;
+}

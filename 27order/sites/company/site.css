@@ -1,0 +1,29 @@
+.theme-company {
+  --brand: #236a89;
+  --nav: #edf4f7;
+  --accent: #3e879f;
+  border-color: #84a4b0;
+  background: #f9fcfd;
+}
+
+.theme-company .site-masthead {
+  min-height: 116px;
+  background: #e9f3f5;
+  border-bottom: 5px solid #4f91a7;
+}
+
+.theme-company .site-nav a {
+  color: #21566b;
+  border-color: #b9cdd5;
+  font-weight: bold;
+}
+
+.theme-company .site-nav a:hover {
+  background: #d9ecf1;
+}
+
+.theme-company .lead {
+  background: #eaf4f6;
+  border: 1px solid #b8d1d9;
+  border-left-width: 5px;
+}
